@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ActionCollection version="2" name="Scripts">
+    <Actions category="Scripts">
+        <text>GLIS</text>
+
+        <Action name="GLIS_ID">
+        <icon></icon>
+        <text>GLIS</text>
+        <whatsThis>Create duplicate of group layer and increase saturation</whatsThis>
+        <toolTip>Create duplicate of group layer and increase saturation</toolTip>
+        <iconText></iconText>
+        <activationFlags>10000</activationFlags>
+        <activationConditions>0</activationConditions>
+        <shortcut>0</shortcut>
+        <isCheckable>false</isCheckable>
+        <statusTip></statusTip>
+        </Action>
+    </Actions>
+</ActionCollection>

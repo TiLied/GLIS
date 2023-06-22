@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=GLIS
+X-Python-2-Compatible=false
+Name=GLIS
+Comment=Create duplicate of group layer and increase saturation
