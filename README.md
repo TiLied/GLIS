@@ -1,3 +1,4 @@
+## I just learned that Krita has "[Clone Layers](https://docs.krita.org/en/reference_manual/layers_and_masks/clone_layers.html)" with real-time updates! RATHER THAN USING THIS PLUGIN, USE CLONE LAYERS!
 # GLIS
 Create duplicate of group layer and increase saturation. Useful when you want to increase saturation of a whole image or the layers inside the group (Very specific and personal for my needs). The default shortcut is "0", pressing again will delete the duplicated group.
 
